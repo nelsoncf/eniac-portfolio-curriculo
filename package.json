@@ -1,0 +1,29 @@
+{
+  "name": "eniac-curriculo",
+  "version": "1.0.0",
+  "description": "Site desenvolvido para atividade da matéria Tecnologia Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eniac"
+  ],
+  "author": "Nelson Campos",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelsoncf/eniac-portfolio-curriculo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nelsoncf/eniac-portfolio-curriculo/issues"
+  },
+  "homepage": "https://github.com/nelsoncf/eniac-portfolio-curriculo#readme"
+}
